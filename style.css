@@ -1,0 +1,14 @@
+.BALL{
+  border-radius:50%;
+  width:100px
+}
+Body{
+  text-align: center;
+  background-color: blue;
+  color:yellow;
+}
+.text{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
